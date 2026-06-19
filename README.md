@@ -1,5 +1,5 @@
 # 💫 About Me:
-Chance paye j ni garinxa
+
 
 
 # 💻 Tech Stack:
